@@ -1,0 +1,1 @@
+![http://farmduino.googlecode.com/files/diagram.png](http://farmduino.googlecode.com/files/diagram.png)
